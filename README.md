@@ -3,6 +3,16 @@
 - npm install
 - npm start
 
+## `ROUTES AVAILABLE`
+
+- /
+- /users
+- /user/[id]
+- /newUser
+- /products
+- /product/[id]
+- /newProduct
+
 ## `DESCRIPTON`
 
 > A react admin dashboard, built with few library such as Material-UI and ChartJS
